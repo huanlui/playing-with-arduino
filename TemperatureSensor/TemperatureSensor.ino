@@ -8,7 +8,7 @@
 
 double lm35SensibilityInVoltsPerDegree = 0.01;
 double arduinoSensibilityInVoltsPerValue = 5.0 / 1023;
-int inputPin = 5;
+int inputPin = 0;
 double inputValue ;
 double temperature;
 
